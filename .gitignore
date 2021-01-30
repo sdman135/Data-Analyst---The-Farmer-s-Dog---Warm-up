@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+general_store_sample_data.xlsx
