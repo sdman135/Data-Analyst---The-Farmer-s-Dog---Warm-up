@@ -1,0 +1,181 @@
+product_group,country,year,revenue
+automobile,BR,2012,206937.3265
+automobile,BR,2013,199547.3868
+automobile,CA,2013,197965.0168
+automobile,CA,2012,197552.3251
+automobile,CL,2013,197857.0241
+automobile,DE,2013,200636.5951
+automobile,CL,2012,203331.9272
+automobile,FR,2013,190734.6815
+automobile,FR,2013,197659.8619
+automobile,DE,2012,209905.2214
+automobile,FR,2013,197206.0295
+automobile,GB,2013,189077.6101
+automobile,ES,2012,200855.7697
+automobile,ES,2012,193957.3927
+automobile,ES,2012,195584.845
+automobile,ZA,2013,208943.1304
+automobile,ZH,2013,192123.6137
+automobile,BR,2014,192515.4114
+automobile,GB,2012,204522.4756
+automobile,CA,2014,200263.5537
+automobile,CL,2014,206759.713
+automobile,DE,2014,197499.016
+automobile,GB,2014,196398.9096
+automobile,US,2014,201789.7014
+automobile,ZA,2012,188605.5183
+automobile,US,2014,198326.2411
+automobile,US,2014,204902.7911
+automobile,ZH,2012,186944.5271
+automobile,ZA,2014,194365.9372
+automobile,ZH,2014,201206.2567
+clothing,BR,2012,2512.668627
+clothing,BR,2013,1705.943957
+clothing,CA,2013,2916.564869
+clothing,CA,2012,2082.223561
+clothing,CL,2013,2182.468473
+clothing,DE,2013,1757.507342
+clothing,CL,2012,1224.515131
+clothing,FR,2013,1873.328854
+clothing,FR,2013,3346.136628
+clothing,DE,2012,2085.356491
+clothing,FR,2013,1241.063181
+clothing,GB,2013,1901.262456
+clothing,ES,2012,1081.70538
+clothing,ES,2012,3112.439556
+clothing,ES,2012,912.8132553
+clothing,ZA,2013,1289.744851
+clothing,ZH,2013,2417.244712
+clothing,BR,2014,2816.587889
+clothing,GB,2012,1872.691263
+clothing,CA,2014,2580.246031
+clothing,CL,2014,1495.513372
+clothing,DE,2014,2910.094783
+clothing,GB,2014,1100.019433
+clothing,US,2014,1865.099225
+clothing,ZA,2012,1921.445759
+clothing,US,2014,1926.057675
+clothing,US,2014,1491.881474
+clothing,ZH,2012,1403.543763
+clothing,ZA,2014,1773.391764
+clothing,ZH,2014,2218.465549
+electronics,BR,2012,19720.86736
+electronics,BR,2013,19495.69055
+electronics,CA,2013,20785.59479
+electronics,CA,2012,20495.51125
+electronics,CL,2013,20330.94444
+electronics,DE,2013,21044.73325
+electronics,CL,2012,19117.94738
+electronics,FR,2013,20352.77235
+electronics,FR,2013,19615.28343
+electronics,DE,2012,19681.71285
+electronics,FR,2013,19475.63671
+electronics,GB,2013,19522.97941
+electronics,ES,2012,19505.46748
+electronics,ES,2012,20348.10266
+electronics,ES,2012,19643.28125
+electronics,ZA,2013,18956.1593
+electronics,ZH,2013,20879.25695
+electronics,BR,2014,18500.25946
+electronics,GB,2012,20380.1506
+electronics,CA,2014,19617.85948
+electronics,CL,2014,19488.73434
+electronics,DE,2014,20477.20668
+electronics,GB,2014,19678.60736
+electronics,US,2014,20175.30882
+electronics,ZA,2012,20002.15878
+electronics,US,2014,19824.93155
+electronics,US,2014,19250.15382
+electronics,ZH,2012,19817.82002
+electronics,ZA,2014,20020.90338
+electronics,ZH,2014,19860.31464
+furniture,BR,2012,20493.24945
+furniture,BR,2013,19417.87975
+furniture,CA,2013,20007.58838
+furniture,CA,2012,20434.54943
+furniture,CL,2013,20043.52972
+furniture,DE,2013,19836.01433
+furniture,CL,2012,20468.58084
+furniture,FR,2013,21392.75366
+furniture,FR,2013,19032.58592
+furniture,DE,2012,20122.73848
+furniture,FR,2013,20349.47867
+furniture,GB,2013,20692.44781
+furniture,ES,2012,19799.61815
+furniture,ES,2012,20932.97424
+furniture,ES,2012,19095.47778
+furniture,ZA,2013,20375.891
+furniture,ZH,2013,20030.87471
+furniture,BR,2014,20745.43776
+furniture,GB,2012,20229.05897
+furniture,CA,2014,19096.69483
+furniture,CL,2014,19738.29078
+furniture,DE,2014,20555.90101
+furniture,GB,2014,20218.77608
+furniture,US,2014,19864.19732
+furniture,ZA,2012,19767.287
+furniture,US,2014,20146.53482
+furniture,US,2014,19907.13508
+furniture,ZH,2012,19591.0054
+furniture,ZA,2014,20424.43875
+furniture,ZH,2014,21130.75425
+groceries,BR,2012,229953.4802
+groceries,BR,2013,196344.5155
+groceries,CA,2013,220730.254
+groceries,CA,2012,204191.6412
+groceries,CL,2013,242057.9808
+groceries,DE,2013,216100.6394
+groceries,CL,2012,193511.8725
+groceries,FR,2013,238991.3367
+groceries,FR,2013,223017.3803
+groceries,DE,2012,180273.5776
+groceries,FR,2013,189053.4344
+groceries,GB,2013,227576.38
+groceries,ES,2012,147368.0034
+groceries,ES,2012,203526.2114
+groceries,ES,2012,194360.7144
+groceries,ZA,2013,204543.5673
+groceries,ZH,2013,188024.1562
+groceries,BR,2014,199949.6546
+groceries,GB,2012,219408.7258
+groceries,CA,2014,211276.6457
+groceries,CL,2014,218217.79
+groceries,DE,2014,188772.9455
+groceries,GB,2014,195283.7054
+groceries,US,2014,208650.1021
+groceries,ZA,2012,180091.5383
+groceries,US,2014,167057.5445
+groceries,US,2014,213302.7456
+groceries,ZH,2012,183447.6063
+groceries,ZA,2014,248372.9094
+groceries,ZH,2014,200945.6474
+office supplies,BR,2012,198827.3304
+office supplies,BR,2013,201139.7747
+office supplies,CA,2013,201632.1276
+office supplies,CA,2012,201145.3306
+office supplies,CL,2013,209972.0346
+office supplies,DE,2013,194630.1617
+office supplies,CL,2012,206359.0457
+office supplies,FR,2013,201274.5064
+office supplies,FR,2013,209669.1007
+office supplies,DE,2012,199428.0164
+office supplies,FR,2013,206302.3062
+office supplies,GB,2013,193322.2303
+office supplies,ES,2012,206106.33
+office supplies,ES,2012,191076.7305
+office supplies,ES,2012,204295.843
+office supplies,ZA,2013,208051.354
+office supplies,ZH,2013,191593.1306
+office supplies,BR,2014,196080.8924
+office supplies,GB,2012,201578.2619
+office supplies,CA,2014,196105.4552
+office supplies,CL,2014,196084.1515
+office supplies,DE,2014,200860.5912
+office supplies,GB,2014,191475.5217
+office supplies,US,2014,207157.982
+office supplies,ZA,2012,188248.9237
+office supplies,US,2014,207829.1326
+office supplies,US,2014,198895.8293
+office supplies,ZH,2012,189211.7817
+office supplies,ZA,2014,214117.7205
+office supplies,ZH,2014,199955.85
